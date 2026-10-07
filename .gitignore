@@ -1,0 +1,14 @@
+# Ignorar un archivo especifico
+secretos.env
+config.json
+
+#Ignorar todos los archivos con una extension determinada
+
+*.log
+*.tmp
+
+
+#Ignora carpetas completas
+
+.vscode/
+
